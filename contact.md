@@ -3,7 +3,7 @@ layout: default
 is_contact: true
 ---
 
-* Email: [timotheus.berg@pm.me](mailto:timotheus.berg@pm.me)
+* Email: timotheus.berg (at) pm.me
 
 ---
 
