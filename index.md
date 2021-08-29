@@ -6,14 +6,14 @@ layout: default
 
 <img class="profile-picture" src="timo.jpg">
 
-Hi! I am an undergrad student in mathematics at the TU Berlin. I am also a research assistant at the [Gramann lab](https://www.bpn.tu-berlin.de/menue/biopsychologie_und_neuroergonomie/parameter/en/).
+Hi! I'm an undergrad student in mathematics at the TU Berlin. I am also a research assistant at the [Gramann lab](https://www.bpn.tu-berlin.de/menue/biopsychologie_und_neuroergonomie/parameter/en/) and currently in San Diego as a visiting researcher at [SCCN](https://sccn.ucsd.edu/) under the supervision of Dr. Iversen.
 
 ## Research
 
-I am currently working on an experiment on spatial navigation. Combining EEG and Virtual-Reality(VR) I am investigating the contribution of proprioceptipve information in path integration.
-The project is currently in the data collection phase. More info will be added as the experiment progresses.
+My research interest is in spatial navigation, especially path integration. I am currently working on a project the contribution of proprioceptipve information in path integration in humans. 
+Furthermore I am interested in data analysis methods and tools that can help researchers in their work. One side project of mine is an [EEG-data explorer](https://github.com/timo-berg/eegraw_explorer) which is in a very early stage yet. 
+
+<img class="profile-picture" src="data_explorer.jpg">
 
 ## Interests
-
-My broader interests are in data anlysis methods. Thinking about new approaches to extract information from a complex data set is what I love most.
-I have experience with various programming languages (descending by level of expertise): Matlab, Python, C# (Unity), R, and Julia.
+I'm a big fan of philosophy and psychoanalysis especially their existentialist currents. I also enjoy calligraphy but I'm not really good at it (yet). My biggest passion, however, are orangutans 🦧. People ask me why, but I think a quick [Google search](https://www.google.com/search?q=orangutan+baby&tbm=isch) should be enough of an explanation.
