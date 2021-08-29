@@ -59,14 +59,20 @@
     }
     imgleft {
         text-align: left;
+        height: $gallery-size;
+        width: $gallery-size;
         width: 30%;
     }
     img_center {
         text-align: center;
+        height: $gallery-size;
+        width: $gallery-size;
         width: 30%;
     }
     img_right {
         text-align: right;
+        height: $gallery-size;
+        width: $gallery-size;
         width: 30%;
     }
 
