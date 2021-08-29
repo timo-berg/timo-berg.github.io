@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="timo.jpg">
 
-Hi! I'm an undergrad student in mathematics at the TU Berlin. I am also a research assistant at the <a href="https://www.bpn.tu-berlin.de/menue/biopsychologie_und_neuroergonomie/parameter/en/" target="_blank">Gramann lab<\a> and currently in San Diego as a visiting researcher at [SCCN](https://sccn.ucsd.edu/) under the supervision of Dr. Iversen.
+Hi! I'm an undergrad student in mathematics at the TU Berlin. I am also a research assistant at the <a href="https://www.bpn.tu-berlin.de/menue/biopsychologie_und_neuroergonomie/parameter/en/" target="_blank">Gramann lab</a> and currently in San Diego as a visiting researcher at [SCCN](https://sccn.ucsd.edu/) under the supervision of Dr. Iversen.
 
 ## Research
 
