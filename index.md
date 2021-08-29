@@ -14,7 +14,7 @@ My research interest is in spatial navigation, especially path integration. I am
 Furthermore I am interested in data analysis methods and tools that can help researchers in their work. One side project of mine is an [EEG-data explorer](https://github.com/timo-berg/eegraw_explorer) which is in a very early stage yet. 
 
 Here is a preview of the current state:
-<img class="img" src="data_explorer.jpg">
+<img class="img" src="data_explorer_preview.jpg">
 
 ## Interests
 I'm a big fan of philosophy and psychoanalysis especially their existentialist currents. I also enjoy calligraphy but I'm not really good at it (yet). My biggest passion, however, are orangutans 🦧. People ask me why, but I think a quick [Google search](https://www.google.com/search?q=orangutan+baby&tbm=isch) should be enough of an explanation.
