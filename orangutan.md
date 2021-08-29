@@ -36,7 +36,6 @@ Please enjoy my collection of orangutan pictures:
     <img src="orangutans/pciture_664.png">
     <img src="orangutans/pciture_80.png">
     <img src="orangutans/pciture_614.png">
-    <img src="orangutans/pciture_96.png">
     <img src="orangutans/pciture_481.png">
     <img src="orangutans/pciture_304.png">
     <img src="orangutans/pciture_636.png">
@@ -456,7 +455,6 @@ Please enjoy my collection of orangutan pictures:
     <img src="orangutans/pciture_105.png">
     <img src="orangutans/pciture_187.png">
     <img src="orangutans/pciture_685.png">
-    <img src="orangutans/pciture_6.png">
     <img src="orangutans/pciture_148.png">
     <img src="orangutans/pciture_415.png">
     <img src="orangutans/pciture_449.png">
@@ -487,7 +485,6 @@ Please enjoy my collection of orangutan pictures:
     <img src="orangutans/pciture_111.png">
     <img src="orangutans/pciture_371.png">
     <img src="orangutans/pciture_456.png">
-    <img src="orangutans/pciture_605.png">
     <img src="orangutans/pciture_212.png">
     <img src="orangutans/pciture_40.png">
     <img src="orangutans/pciture_567.png">
@@ -561,7 +558,6 @@ Please enjoy my collection of orangutan pictures:
     <img src="orangutans/pciture_345.png">
     <img src="orangutans/pciture_580.png">
     <img src="orangutans/pciture_30.png">
-    <img src="orangutans/pciture_75.png">
     <img src="orangutans/pciture_249.png">
   </div>
   <div class="column">
@@ -569,7 +565,6 @@ Please enjoy my collection of orangutan pictures:
     <img src="orangutans/pciture_487.png">
     <img src="orangutans/pciture_396.png">
     <img src="orangutans/pciture_463.png">
-    <img src="orangutans/pciture_676.png">
     <img src="orangutans/pciture_697.png">
     <img src="orangutans/pciture_571.png">
     <img src="orangutans/pciture_570.png">
