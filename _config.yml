@@ -20,5 +20,7 @@ nav:
    link: "/researcher/"
  - name: "Resume"
    link: "CV_Timo_Berg.pdf"
+ - name: "Orangutan"
+   link: "orangutan"
  - name: "Contact"
    link: "contact"

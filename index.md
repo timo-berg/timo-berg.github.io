@@ -18,3 +18,6 @@ Here is a preview of the current state:
 
 ## Interests
 I'm a big fan of philosophy and psychoanalysis especially their existentialist currents. I also enjoy calligraphy but I'm not really good at it (yet). My biggest passion, however, are orangutans 🦧. People ask me why, but I think a quick <a href="https://www.google.com/search?q=orangutan+baby&tbm=isch" target="_blank">Google search</a> should be enough of an explanation.
+
+## Skills
+I have experience in coding mostly in the scientific computing area and some basic knowledge of Unity. I use Python, Julia, C#, and (unfortunately) Matlab. My R knowledge is quite rusty but could be revived if needed.
