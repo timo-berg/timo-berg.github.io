@@ -2,7 +2,8 @@
 layout: default
 ---
 
-Here look at some orangutans:
+Orangutans are my favorite animals! Unfortunately, they are critically endangered. If you want to help, you can donate <a href="https://www.orangutan.or.id/" target="_blank">here</a>.
+Please enjoy my collection of orangutan pictures:
 <div class="row">
   <div class="column">
     <img src="orangutans/pciture_89.png">
